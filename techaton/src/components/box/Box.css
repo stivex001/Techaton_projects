@@ -1,0 +1,19 @@
+.box-title{
+    font-size: 30px;
+    color: orange;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+/* .box{
+    width: 800px;
+    min-height: 300px;
+    
+    
+} */
+
+.box p{
+    font-size: 20px;
+    text-align: center;
+}
+
